@@ -1,0 +1,3 @@
+Xin chào thế giới! Đây là tệp thử nghiệm.
+Tệp này chứa một số văn bản.
+Xin chào lần nữa. Thử nghiệm thử nghiệm thử nghiệm!
