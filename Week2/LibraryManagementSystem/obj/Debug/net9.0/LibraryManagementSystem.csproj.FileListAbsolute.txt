@@ -1,0 +1,14 @@
+D:\Chuyennganh5\PRN212\HW\Week2\LibraryManagementSystem\obj\Debug\net9.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chuyennganh5\PRN212\HW\Week2\LibraryManagementSystem\obj\Debug\net9.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+D:\Chuyennganh5\PRN212\HW\Week2\LibraryManagementSystem\obj\Debug\net9.0\LibraryManagementSystem.AssemblyInfo.cs
+D:\Chuyennganh5\PRN212\HW\Week2\LibraryManagementSystem\obj\Debug\net9.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Chuyennganh5\PRN212\HW\Week2\LibraryManagementSystem\bin\Debug\net9.0\LibraryManagementSystem.exe
+D:\Chuyennganh5\PRN212\HW\Week2\LibraryManagementSystem\bin\Debug\net9.0\LibraryManagementSystem.deps.json
+D:\Chuyennganh5\PRN212\HW\Week2\LibraryManagementSystem\bin\Debug\net9.0\LibraryManagementSystem.runtimeconfig.json
+D:\Chuyennganh5\PRN212\HW\Week2\LibraryManagementSystem\bin\Debug\net9.0\LibraryManagementSystem.dll
+D:\Chuyennganh5\PRN212\HW\Week2\LibraryManagementSystem\bin\Debug\net9.0\LibraryManagementSystem.pdb
+D:\Chuyennganh5\PRN212\HW\Week2\LibraryManagementSystem\obj\Debug\net9.0\LibraryManagementSystem.dll
+D:\Chuyennganh5\PRN212\HW\Week2\LibraryManagementSystem\obj\Debug\net9.0\refint\LibraryManagementSystem.dll
+D:\Chuyennganh5\PRN212\HW\Week2\LibraryManagementSystem\obj\Debug\net9.0\LibraryManagementSystem.pdb
+D:\Chuyennganh5\PRN212\HW\Week2\LibraryManagementSystem\obj\Debug\net9.0\LibraryManagementSystem.genruntimeconfig.cache
+D:\Chuyennganh5\PRN212\HW\Week2\LibraryManagementSystem\obj\Debug\net9.0\ref\LibraryManagementSystem.dll
